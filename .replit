@@ -1,0 +1,2 @@
+language = "go"
+run = "go run ./cmd repl.it"
